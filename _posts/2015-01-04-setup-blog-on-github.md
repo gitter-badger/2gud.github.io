@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Как поднять блог на Github Pages
-permalink: setup-blog-on-github
+permalink: blog-github
 tags: github github-pages jekyll
 ---
 
