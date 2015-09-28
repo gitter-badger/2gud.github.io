@@ -29,4 +29,5 @@ pages_list:
   Архив записей: '/archive'
   RSS: '/atom.xml'
 
-gems: ["emoji_for_jekyll"]
+gems:
+  - jemoji
