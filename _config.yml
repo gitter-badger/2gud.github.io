@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               2G-Blog
 tagline:             test
-url:                 http://0.0.0.0:4000/
+url:                 http://2gud.github.io/
 paginate:            1
 baseurl:             ""
 
