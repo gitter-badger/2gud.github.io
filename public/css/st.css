@@ -300,8 +300,8 @@ tbody tr:nth-child(odd) th {
 .masthead-title a:hover {
   color: #303030;
 }
-.masthead-title small a {
-  font-size: 70%;
+.masthead-title small {
+  font-size: 100%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
