@@ -291,26 +291,16 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #c0c0c0;
 }
 .masthead-title a {
   font-size: 100%;
-  color: #303030;
+  color: #268bd2;
   text-decoration: none;
 }
 .masthead-title a:hover {
-  color: #268bd2;
-}
-.menu {
-  font-size: 100%;
-  font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
-}
-.menu a:hover {
   color: #303030;
   background: #ffdb4d;
-  text-decoration: none;
 }
 
 
