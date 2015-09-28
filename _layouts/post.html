@@ -6,9 +6,9 @@ comments: true
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>  
   {{ content }}
-  <span class="post-date">{{ post.date | date_to_string }}
+  <span class="post-date">:Метки
     <ul class="tag-box inline" style="float:right;font-size:0.875em">
-    :Метки
+    
     {% capture tags %}
       {% for tag in page.tags %}
         {{ tag }}
