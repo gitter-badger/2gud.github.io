@@ -294,11 +294,12 @@ tbody tr:nth-child(odd) th {
   color: #505050;
 }
 .masthead-title a {
-  color: #268bd2;
+  font-size: 100%;
+  color: #303030;
   text-decoration: none;
 }
 .masthead-title a:hover {
-  color: #303030;
+  color: #268bd2;
 }
 .masthead-title small {
   font-size: 100%;
