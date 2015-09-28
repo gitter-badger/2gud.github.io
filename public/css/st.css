@@ -304,7 +304,7 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title small a:hover {
   color: #303030;
-  background: #268bd2;
+  background: #ffdb4d;
   text-decoration: none;
 }
 
