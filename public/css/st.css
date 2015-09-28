@@ -301,13 +301,13 @@ tbody tr:nth-child(odd) th {
 .masthead-title a:hover {
   color: #268bd2;
 }
-.masthead-title small {
+.menu {
   font-size: 100%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
 }
-.masthead-title small a:hover {
+.menu a:hover {
   color: #303030;
   background: #ffdb4d;
   text-decoration: none;
