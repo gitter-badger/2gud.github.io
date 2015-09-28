@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}       
+    <span class="post-date">{{ page.date | localize: "%d %B %Y" }}
        <ul class="tag-box inline" style="float:right">
        :Метки
             {% capture tags %}
