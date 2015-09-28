@@ -29,5 +29,5 @@ pages_list:
   Архив записей: '/archive'
   RSS: '/atom.xml'
 
-gems:
-  - jemoji
+#gems:
+#  - jemoji
