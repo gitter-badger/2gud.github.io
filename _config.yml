@@ -1,0 +1,31 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               2G-Blog
+tagline:             test
+url:                 http://0.0.0.0:4000/
+paginate:            1
+baseurl:             ""
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  RSS: '/atom.xml'
+
+gems: ["emoji_for_jekyll"]
