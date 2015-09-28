@@ -7,8 +7,6 @@ tags: github github-pages jekyll
 
 Первый пост блога, инструкция. :smile:
 
-<i class="icon-file"></i> Create a document
-
 ## Содержание
 
 - [Лирика](#lirics)
