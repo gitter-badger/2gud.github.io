@@ -302,6 +302,9 @@ tbody tr:nth-child(odd) th {
   color: #c0c0c0;
   letter-spacing: 0;
 }
+.masthead-title small a:hover {
+  text-decoration: overline;
+}
 
 
 /*
