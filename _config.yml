@@ -24,9 +24,9 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:
-  О блоге: '/about'
-  Теги: '/tags'
-  Архив записей: '/archive'
+  О блоге: '/obloge'
+  Теги: '/tegi'
+  Архив: '/arhiv'
   RSS: '/atom.xml'
 
 #gems:
