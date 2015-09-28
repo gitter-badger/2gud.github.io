@@ -12,9 +12,9 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}
-       теги: 
+    <span class="post-date">{{ post.date | date_to_string }}       
        <ul class="tag-box inline" style="float:right">
+       теги: 
             {% capture tags %}
               {% for tag in post.tags %}
                 {{ tag }}
