@@ -14,7 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}
        <ul class="tag-box inline" style="float:right">       
-            {% capture tags %}Метки
+            Метки{% capture tags %}
               {% for tag in post.tags %}
                 {{ tag }}
               {% endfor %}
