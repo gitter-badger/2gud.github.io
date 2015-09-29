@@ -27,8 +27,8 @@ title: Home
             {% endfor %}
        </ul>
     </span>
-
     {{ post.excerpt }}
+    <a class="exerp" href="{{ post.url | prepend: site.url }}">Читать дальше</a>
   </div>
   {% endfor %}
 </div>

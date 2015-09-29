@@ -27,7 +27,7 @@ pages_list:
   О блоге: '/obloge'
   Теги: '/tegi'
   Архив: '/arhiv'
-  RSS: '/atom.xml'
+  RSS: '/feeds'
 
 #gems:
 #  - jemoji
