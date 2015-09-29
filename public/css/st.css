@@ -296,11 +296,13 @@ tbody tr:nth-child(odd) th {
 .masthead-title a {
   font-size: 140%;
   color: #268bd2;
+  background:rgba(246,207,207,.8);
   text-decoration: none;
 }
 .masthead-title a:hover {
   color: #303030;
-  background: #ffdb4d;
+  text-shadow:#dd4241 0 0 .25em;
+  background: rgba(221,66,65,.7);
 }
 
 
