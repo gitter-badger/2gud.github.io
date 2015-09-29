@@ -298,13 +298,13 @@ tbody tr:nth-child(odd) th {
   padding: 0 .67em;
   color: #268bd2;
   background: rgba(246,207,207,.8);
-  border-radius: 5px;
+  border-radius: 4px;
   text-decoration: none;
 }
 .masthead-title a:hover {
   color: #303030;
   background: #ffe060;
-  border: 2px #e0e0e0 solid;
+  border: 1px #e0e0e0 solid;
   border-color: #f0c040;
 }
 
