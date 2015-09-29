@@ -295,6 +295,7 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title a {
   font-size: 140%;
+  padding: 0 .67em;
   color: #268bd2;
   background:rgba(246,207,207,.8);
   text-decoration: none;
