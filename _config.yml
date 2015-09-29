@@ -21,7 +21,7 @@ author:
 
 # Custom vars
 version:             1.0.0
-github:
+github:              https://github.com/2gud
   repo:              https://github.com/2gud/2gud.github.io
 
 # This is the list of pages to include in the header of the website.
