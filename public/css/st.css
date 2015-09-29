@@ -340,7 +340,7 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  border-top: 1px solid #eee;
+  border-top: 2px solid #000;
 }
 .related-posts {
   padding-left: 0;
