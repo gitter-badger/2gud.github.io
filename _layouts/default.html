@@ -10,7 +10,6 @@
         <div class="masthead-title">
             <a href="/" title="На Главную">{{ site.title }}</a>
             {% for page in site.pages_list %}
-              &nbsp;
               <a href="{{ page[1]  }}">{{ page[0] }}</a>
             {% endfor %}
             <p><small>{{ site.tagline }}</small></p>
