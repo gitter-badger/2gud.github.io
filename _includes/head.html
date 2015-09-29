@@ -17,21 +17,21 @@
 
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% else %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
 
-  {% if page.noindex %}<META NAME="ROBOTS" CONTENT="NOINDEX,FOLLOW"/>{% endif %}
+  {% if page.noindex %}<meta name="robots" content="noindex, follow"/>{% endif %}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/st.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/social-likes_flat.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/st.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/social-likes_flat.css">
 
   <!-- js -->
   
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}feeds/atom.xml">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feeds/atom.xml">
 
   <meta name='yandex-verification' content='6e0f4340e0256d40' />
 </head>
