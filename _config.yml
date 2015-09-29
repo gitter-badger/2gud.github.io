@@ -31,5 +31,5 @@ pages_list:
   Архив: '/arhiv'
   RSS: '/feeds/rss.xml'
 
-gems:
-  - jemoji
+#gems:
+#  - jemoji
