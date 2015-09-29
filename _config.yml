@@ -29,5 +29,5 @@ pages_list:
   Архив: '/arhiv'
   RSS: '/feeds'
 
-#gems:
-#  - jemoji
+gems:
+  - jemoji
