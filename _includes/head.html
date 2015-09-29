@@ -1,10 +1,8 @@
 <head>
   <meta charset="UTF-8">
   <link href="http://gmpg.org/xfn/11" rel="profile">
-
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -12,11 +10,8 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
-
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% else %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
-
   {% if page.noindex %}<meta name="robots" content="noindex, follow"/>{% endif %}
 
   <!-- CSS -->
