@@ -28,13 +28,13 @@ title: Home
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | replace: '//', '/' }}">&#8592; Старьё</a>
   {% else %}
-    <span class="pagination-item older">&#8592; Старьё</span>
+    &#8592; <span class="pagination-item older">Старьё</span>
   {% endif %}
 
   {% if paginator.previous_page %}
     <a class="pagination-item newer" href="{{ paginator.previous_page_path | replace: '//', '/' }}">Новее &#8594;</a>
   {% else %}
-    <span class="pagination-item newer">Новее &#8594;</span>
+    <span class="pagination-item newer">Новее</span> &#8594;
   {% endif %}
 </div>
 {% endif %}
