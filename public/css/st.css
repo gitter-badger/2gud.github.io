@@ -347,14 +347,14 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 .excerp a:hover {
-  color: #fff;
-  background: #6da3bd;  
-  border-color: #c0c0c0;
+  color: #303030;
+  background: #ffe060;  
+  border-color: #f0c040;
 }
 
 /* Related posts */
 .related {
-  border-top: 2px solid #000;
+  border-top: 3px solid #000;
 }
 .related-posts {
   padding-left: 0;
