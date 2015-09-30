@@ -365,7 +365,8 @@ tbody tr:nth-child(odd) th {
 .rt {
   margin-top: 1rem;
 }
-.related-posts h3 {
+.related-posts h4 {
+  font-size: 110%;
   margin-top: 0;
 }
 .related-posts li a:hover {
