@@ -363,6 +363,9 @@ tbody tr:nth-child(odd) th {
   padding-left: 0;
   list-style: none;
 }
+.rt {
+  margin-top: 1rem;
+}
 .related-posts h3 {
   margin-top: 0;
 }

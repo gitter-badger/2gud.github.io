@@ -31,10 +31,10 @@ comments: true
     <div class="odnoklassniki">Класснуть</div>
     <div class="pinterest" data-media="i/pinnable.jpg">Запинить</div>
   </div>
-  <br>
+
   {% if site.related_posts != empty %}
-    <aside class="related">
-      <b>Рекомендую Заглянуть:</b>
+    <div class="related">
+      <div class="rt">Рекомендую Заглянуть:</div>
       <ul class="related-posts">
         {% for post in site.related_posts limit:3 %}
           <li>
@@ -47,7 +47,7 @@ comments: true
           </li>
         {% endfor %}
       </ul>
-    </aside>
+    </div>
 {% endif %}
 
 Настрочи коммент :)
