@@ -60,6 +60,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
+  color: #6da3bd;
   text-decoration: underline;
 }
 
