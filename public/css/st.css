@@ -349,7 +349,7 @@ tbody tr:nth-child(odd) th {
 .excerp a:hover {
   color: #fff;
   background: #CC002B;  
-  border-color: #f0c040;
+  border-color: #000;
 }
 
 /* Related posts */
