@@ -350,8 +350,7 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 .excerp a:hover {
-  color: #303030;
-  background: #ffe060;  
+  color: #303030;  
   border-color: #f0c040;
 }
 
@@ -375,7 +374,7 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 .related-posts li small {
-  font-size: 75%;
+  font-size: 60%;
   color: #999;
 }
 
