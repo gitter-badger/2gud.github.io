@@ -301,9 +301,9 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 .masthead-title a:hover {
-  color: #fff;
-  background: #6da3bd;  
-  border-color: #c0c0c0;
+  color: #303030;
+  background: #ffe060;  
+  border-color: #f0c040;
 }
 
 
@@ -368,8 +368,8 @@ tbody tr:nth-child(odd) th {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
+  color: #6da3bd;
+  text-decoration: underline;
 }
 .related-posts li a:hover small {
   color: inherit;
