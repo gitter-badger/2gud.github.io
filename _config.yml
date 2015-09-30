@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               2GUD
+title:               2gud
 tagline:             Мы никого так ловко не обманываем, как самих себя.
 description:         blah blah blah
 keywords:            one two three
@@ -26,10 +26,10 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:
-  О блоге: '/obloge'
-  Теги: '/tegi'
-  Архив: '/arhiv'
-  RSS: '/feeds/rss.xml'
+  о блоге: '/obloge'
+  теги: '/tegi'
+  архив: '/arhiv'
+  rss: '/feeds/rss.xml'
 
 #gems:
 #  - jemoji
