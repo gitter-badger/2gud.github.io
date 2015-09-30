@@ -347,8 +347,8 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 .excerp a:hover {
-  color: #303030;
-  background: #DD4241;  
+  color: #fff;
+  background: #CC002B;  
   border-color: #f0c040;
 }
 
