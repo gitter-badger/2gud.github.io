@@ -16,7 +16,9 @@ title: Home
       {{ post.date | date_to_string }}       
     </span>
     {{ post.excerpt }}
-    <a href="{{ post.url | prepend: site.baseurl }}">Продолжение&#8594;</a>
+    <div class="excerp">
+      <a href="{{ post.url | prepend: site.baseurl }}">Продолжение&#8594;</a>
+    </div>
   </div>
   {% endfor %}
 </div>
