@@ -373,7 +373,7 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li a:hover small {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 
