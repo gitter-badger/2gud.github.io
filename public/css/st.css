@@ -330,6 +330,7 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+
 /* Meta data line below post title */
 .post-date {
   display: block;
@@ -337,6 +338,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
+
 
 /* excerp */
 .excerp a {
@@ -352,6 +354,7 @@ tbody tr:nth-child(odd) th {
   border-color: #f0c040;
 }
 
+
 /* Related posts */
 .related {
   border-top: 3px solid #000;
@@ -366,14 +369,11 @@ tbody tr:nth-child(odd) th {
 .related-posts li small {
   font-size: 75%;
   color: #999;
+  text-decoration: none;
 }
 .related-posts li a:hover {
   color: #6da3bd;
   text-decoration: underline;
-}
-.related-posts li a:hover small {
-  color: inherit;
-  text-decoration: none;
 }
 
 
